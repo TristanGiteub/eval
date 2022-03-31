@@ -1,5 +1,5 @@
-import Application from 'ctp-rattrapage/app';
-import config from 'ctp-rattrapage/config/environment';
+import Application from 'ctp_rattrapage/app';
+import config from 'ctp_rattrapage/config/environment';
 import * as QUnit from 'qunit';
 import { setApplication } from '@ember/test-helpers';
 import { setup } from 'qunit-dom';

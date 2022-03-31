@@ -2,7 +2,7 @@
 
 module.exports = function (environment) {
   let ENV = {
-    modulePrefix: 'ctp-rattrapage',
+    modulePrefix: 'ctp_rattrapage',
     environment,
     rootURL: '/',
     locationType: 'history',
